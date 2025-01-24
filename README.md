@@ -1,6 +1,6 @@
 # Basic Python Assignments
 
-This repository contains solutions to basic Python programming assignments. It is designed for beginners to practice fundamental Python concepts and improve their coding skills.
+This repository contains solutions to basic Python Programming assignments. It is designed for beginners to practice fundamental Python concepts and improve their coding skills.
 ## How to Use
 
 1. Clone this repository:
